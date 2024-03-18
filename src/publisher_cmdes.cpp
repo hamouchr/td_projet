@@ -16,7 +16,21 @@ int main(int argc, char **argv) {
   init(argc, argv, "publisher_cmdes");
   NodeHandle nh;
 
-
+  // Declaration des publishers
+  
+  Duration(1).sleep();
+  
+  // Publication des topics
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   return 0;
 }
