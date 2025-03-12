@@ -17,7 +17,7 @@ int main(int argc, char **argv) {
   NodeHandle nh;
 
   // Declaration des publishers
-  pub_cmd_ang = nh.advertise<???>("/???", 10);
+  //pub_cmd_ang = nh.advertise<???>("/???", 10);
 
   
   // Instruction à ne pas effacer
